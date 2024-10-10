@@ -4,7 +4,7 @@ I'm a junior studying Physics (BSc Hons) at Michigan State University, with a mi
 
 🌱 Current Project
 
-Working with a team on the development of bmex.dev, a platform designed to advance the analysis of beam monitoring and experimental data at FRIB. This involves implementing data analysis algorithms, optimizing computational models, and building tools for visualizing experimental results. My work contributes to a deeper understanding of rare isotopes and their behavior.
+Doing research at the Facility for Rare Isotope Beams, Working with a team on the development of bmex.dev, a platform designed to advance the analysis of beam monitoring and experimental data at FRIB This involves implementing data analysis algorithms, optimizing computational models, and building tools for visualizing experimental results. My work contributes to a deeper understanding of rare isotopes and their behavior.
 
 💼 Internship Goals
 
@@ -13,7 +13,9 @@ I am actively seeking internships in data science, sports analytics, and quantit
 🏆 Skills
 
 Proficient in Python: Extensive experience in data analysis, numerical modeling, and scientific computing.
+
 Familiar with Java and JavaScript: Completed coursework in both, but still gaining hands-on experience.
+
 Exploring SQL and R: Currently self-learning these tools to expand my data analysis and modeling capabilities.
 
 📫 Let's Connect!
