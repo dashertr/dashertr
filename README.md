@@ -3,9 +3,9 @@
 I'm a junior studying Physics (BSc Hons) at Michigan State University, with a minor in Computational Math, Science, and Engineering. My academic and professional experiences blend a strong foundation in physics with data science and software engineering. I am passionate about using data-driven insights to solve complex problems in both scientific research and real-world applications.
 
 
-🌱 Current Project
+🌱 Current Focus
 
-Doing research at the Facility for Rare Isotope Beams, Working with a team on the development of bmex.dev, a platform designed to advance the analysis of beam monitoring and experimental data at FRIB This involves implementing data analysis algorithms, optimizing computational models, and building tools for visualizing experimental results. My work contributes to a deeper understanding of rare isotopes and their behavior.
+I'm currently seeking a project at the Facility for Rare Isotope Beams (FRIB) that combines physics, computer science, and data analysis. These subjects are deeply important to me because they provide powerful tools to understand and explore the physical world through data-driven approaches. My goal is to apply my knowledge from both my Physics major and Computational Mathematics, Science, and Engineering (CMSE) minor to solve complex problems, while also learning advanced computer science techniques that extend beyond my coursework. By working on a project like this, I aim to further develop my skills and contribute meaningfully to cutting-edge research..
 
 
 💼 Internship Goals
