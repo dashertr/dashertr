@@ -5,7 +5,7 @@ I'm a junior studying Physics (BSc Hons) at Michigan State University, with a mi
 
 🌱 Current Focus
 
-I'm currently seeking a project at the Facility for Rare Isotope Beams (FRIB) that combines physics, computer science, and data analysis. These subjects are deeply important to me because they provide powerful tools to understand and explore the physical world through data-driven approaches. My goal is to apply my knowledge from both my Physics major and Computational Mathematics, Science, and Engineering (CMSE) minor to solve complex problems, while also learning advanced computer science techniques that extend beyond my coursework. By working on a project like this, I aim to further develop my skills and contribute meaningfully to cutting-edge research..
+I am currently working as a Student Research Assistant at the Facility for Rare Isotope Beams (FRIB), contributing to BMEX.dev—a cloud-enabled web tool for exploring nuclear properties and theoretical models. This project involves developing web applications, coding in Python for scientific computing, and performing data analysis to evaluate theoretical predictions. Through this work, I’m honing skills in frontend development, cloud-based tools, and data-driven research. My ultimate goal is to combine physics, computer science, and data analysis to create innovative solutions for complex research challenges, while gaining advanced technical experience that extends beyond my coursework.
 
 
 💼 Internship Goals
